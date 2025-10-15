@@ -1,3 +1,10 @@
+<p align="left">
+  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3.10+-informational"></a>
+  <a href="https://scikit-learn.org/"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-1.5+-informational"></a>
+  <a href="https://opensource.org/licenses/MIT"><img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-green.svg"></a>
+  <img alt="Made with Jupyter" src="https://img.shields.io/badge/Made%20with-Jupyter-orange.svg">
+</p>
+
 # 🧠 Parallel vs Non-Parallel Random Forest Model Evaluation
 ## 📘 Overview
 
