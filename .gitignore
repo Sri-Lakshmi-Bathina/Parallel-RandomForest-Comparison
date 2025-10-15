@@ -1,0 +1,16 @@
+# OS / Editors
+.DS_Store
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (keep small sample if needed)
+data/*.csv
+!data/README.md
